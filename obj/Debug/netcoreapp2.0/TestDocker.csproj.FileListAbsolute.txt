@@ -1,0 +1,12 @@
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.deps.json
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.runtimeconfig.json
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.runtimeconfig.dev.json
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.dll
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\bin\Debug\netcoreapp2.0\TestDocker.pdb
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.csprojResolveAssemblyReference.cache
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.csproj.CoreCompileInputs.cache
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.AssemblyInfoInputs.cache
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.AssemblyInfo.cs
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.dll
+C:\Users\MINHVUONG\Source\repos\TestDocker\TestDocker\obj\Debug\netcoreapp2.0\TestDocker.pdb
